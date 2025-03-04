@@ -1,2 +1,3 @@
+out.write(”aString”);
 public void fetch() throws SQLException, IOException
 hello world
