@@ -1,3 +1,4 @@
+} finally {
 // error processing code
 out.write(”aString”);
 public void fetch() throws SQLException, IOException
