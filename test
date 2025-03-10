@@ -1,3 +1,4 @@
+props.load(fs);
 String password = props.getProperty("db.password");
 Connection con;
 props.load(fs);
