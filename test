@@ -1,3 +1,4 @@
+String userName = props.getProperty("db.user");
 while (rs.next())
 if (out != null) {
 ps.close();
