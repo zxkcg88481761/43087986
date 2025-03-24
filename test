@@ -1,3 +1,4 @@
+while (rs.next())
 Class.forName(driverClass);
 out.close();
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
