@@ -1,3 +1,4 @@
+} catch (IOException e) {
 Class.forName(driverClass);
 while (rs.next())
 Class.forName(driverClass);
