@@ -1,3 +1,4 @@
+String userName = props.getProperty("db.user");
 rs.close();
 } catch (IOException e) {
 Class.forName(driverClass);
