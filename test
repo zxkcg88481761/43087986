@@ -1,3 +1,4 @@
+String driverClass = "oracle.jdbc.driver.OracleDriver";
 out = new BufferedWriter(new FileWriter(”filename”, true));
 ResultSet rs = ps.executeQuery();
 String userName = props.getProperty("db.user");
